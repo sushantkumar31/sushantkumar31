@@ -103,3 +103,12 @@ Jupyter Notebook         1 repo              ███████████�
 
  Last Updated on 27/06/2026 16:40:30 UTC
 <!--END_SECTION:waka-->
+
+---
+
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/dist/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/dist/github-contribution-grid-snake.svg">
+</picture>
