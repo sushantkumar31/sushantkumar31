@@ -1,3 +1,4 @@
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sushantkumar31.sushantkumar31)
 # Hi, I'm Sushant Kumar 👋
 
 🎓 AIML Engineering Student @ MREC, Hyderabad  
