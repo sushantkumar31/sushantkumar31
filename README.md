@@ -21,3 +21,9 @@
 ## 🔄 Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+---
+
+## 📂 My Repositories
+<!--START_SECTION:repos-->
+<!--END_SECTION:repos-->
