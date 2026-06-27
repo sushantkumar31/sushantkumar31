@@ -12,6 +12,13 @@
 
 ---
 
+## 🧩 DSA Practice
+[![LeetCode](https://img.shields.io/badge/LeetCode-sushantkumar31-orange?style=flat&logo=leetcode)](https://leetcode.com/sushantkumar31)
+
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/sushantkumar31?theme=dark)
+
+---
+
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=sushantkumar31&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantkumar31&layout=compact&theme=tokyonight)
