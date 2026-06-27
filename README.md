@@ -26,5 +26,5 @@
 
 ## 📂 My Repositories
 <!--START_SECTION:repos-->
-- [myAIML](https://github.com/sushantkumar31/myAIML) — No description ⭐ 0
+- [myAIML](https://github.com/sushantkumar31/myAIML) — Hands-on ML fundamentals using Jupyter notebooks — math, NumPy, Pandas, visualization ⭐ 0
 <!--END_SECTION:repos-->
