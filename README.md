@@ -13,10 +13,9 @@
 ---
 
 ## 🧩 DSA Practice
-[![LeetCode](https://img.shields.io/badge/LeetCode-SushantKumar31-orange?style=flat&logo=leetcode)](https://leetcode.com/SushantKumar31)
+[![LeetCode](https://img.shields.io/badge/LeetCode-SushantKumar3110-orange?style=flat&logo=leetcode)](https://leetcode.com/u/SushantKumar3110)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SushantKumar31?theme=dark&font=baloo_2)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/SushantKumar3110?theme=dark&font=baloo_2)
 ---
 
 ## 📊 GitHub Stats
