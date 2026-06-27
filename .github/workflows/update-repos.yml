@@ -1,0 +1,55 @@
+name: Update Repo List
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch and update repos
+        run: |
+          python3 << 'EOF'
+          import urllib.request, json, re
+
+          url = "https://api.github.com/users/sushantkumar31/repos?sort=updated&per_page=10"
+          req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+          repos = json.loads(urllib.request.urlopen(req).read())
+
+          lines = []
+          for r in repos:
+            if r["name"] == "sushantkumar31":
+              continue
+            desc = r["description"] or "No description"
+            stars = r["stargazers_count"]
+            lines.append(f"- [{r['name']}]({r['html_url']}) — {desc} ⭐ {stars}")
+
+          block = "\n".join(lines)
+          marker_start = "<!--START_SECTION:repos-->"
+          marker_end = "<!--END_SECTION:repos-->"
+
+          with open("README.md", "r") as f:
+            content = f.read()
+
+          new_content = re.sub(
+            f"{marker_start}.*?{marker_end}",
+            f"{marker_start}\n{block}\n{marker_end}",
+            content,
+            flags=re.DOTALL
+          )
+
+          with open("README.md", "w") as f:
+            f.write(new_content)
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update repo list"
+          git push
