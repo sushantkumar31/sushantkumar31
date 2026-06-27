@@ -15,8 +15,7 @@
 ## 🧩 DSA Practice
 [![LeetCode](https://img.shields.io/badge/LeetCode-sushantkumar31-orange?style=flat&logo=leetcode)](https://leetcode.com/sushantkumar31)
 
-![LeetCode Stats](https://leetcode-card.vercel.app/api/cards/stats?username=sushantkumar31&theme=dark)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/sushantkumar31?theme=dark&font=baloo_2)
 ---
 
 ## 📊 GitHub Stats
