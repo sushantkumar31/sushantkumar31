@@ -28,3 +28,9 @@
 <!--START_SECTION:repos-->
 - [myAIML](https://github.com/sushantkumar31/myAIML) — Hands-on ML fundamentals using Jupyter notebooks — math, NumPy, Pandas, visualization ⭐ 0
 <!--END_SECTION:repos-->
+
+---
+
+## ⏱️ Coding Activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
