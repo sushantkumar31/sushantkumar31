@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sushant Kumar 👋
 
-<!--
-**sushantkumar31/sushantkumar31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AIML Engineering Student @ MREC, Hyderabad  
+🔭 Currently learning: Machine Learning · DSA · NumPy · Pandas · SQL  
+🎯 Goal: Software + AI/ML Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+`Python` `NumPy` `Pandas` `SQL` `scikit-learn` `TensorFlow` `OpenCV` `Streamlit`
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=sushantkumar31&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantkumar31&layout=compact&theme=tokyonight)
+
+---
+
+## 🔄 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
