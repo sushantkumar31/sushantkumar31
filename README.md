@@ -39,40 +39,38 @@
 
 ## ⏱️ Coding Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 979 Bytes Used in GitHub's Storage 
+> 📦 1.0 kB Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2026
+> 🏆 31 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 1 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                20 commits          █████████████████████████   100.00 % 
+🌃 Evening                32 commits          █████████████████████████   100.00 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Monday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Wednesday                2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Saturday                 14 commits          ██████████████████░░░░░░░   70.00 % 
-Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Friday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Saturday                 26 commits          ████████████████████░░░░░   81.25 % 
+Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
@@ -94,10 +92,11 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Jupyter Notebook** 
+**I Mostly Code in Python** 
 
 ```text
-Jupyter Notebook         1 repo              █████████████████████████   100.00 % 
+Python                   1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+Jupyter Notebook         1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
 ```
 
 
@@ -107,7 +106,7 @@ Jupyter Notebook         1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2026 16:40:30 UTC
+ Last Updated on 28/06/2026 04:01:32 UTC
 <!--END_SECTION:waka-->
 
 ---
