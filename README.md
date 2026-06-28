@@ -32,7 +32,7 @@
 ---
 
 ## 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=sushantkumar31&theme=tokyonight&no-bg=true&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sushantkumar31&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 ---
 
