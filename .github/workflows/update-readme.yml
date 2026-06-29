@@ -14,5 +14,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          README_FILE: README.md
+          MAX_LINES: 5
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
