@@ -21,19 +21,19 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=sushantkumar31&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Stats](https://github-readme-stats.vercel.app/api?username=sushantkumar31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantkumar31&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantkumar31&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🔥 Streak
-![Streak](https://streak-stats.demolab.com?user=sushantkumar31&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=sushantkumar31&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=sushantkumar31&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sushantkumar31&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&column=4)
 
 ---
 
