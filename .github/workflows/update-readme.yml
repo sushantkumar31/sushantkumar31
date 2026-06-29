@@ -30,7 +30,8 @@ jobs:
             if etype == "PushEvent":
               commits = e.get("payload", {}).get("commits", [])
               msg = commits[0].get("message", "") if commits else ""
-              lines.append(f"🔨 Pushed `{msg[:50]}` to [{repo}](https://github.com/{repo})")
+              display = msg[:50] if msg else "changes"
+              lines.append(f"🔨 Pushed `{display}` to [{repo}](https://github.com/{repo})")
             elif etype == "CreateEvent":
               lines.append(f"🎉 Created [{repo}](https://github.com/{repo})")
             elif etype == "WatchEvent":
