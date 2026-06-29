@@ -13,9 +13,53 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
-        with:
-          MAX_LINES: 5
-          TARGET_FILE: README.md
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Fetch GitHub Activity
+        run: |
+          python3 << 'EOF'
+          import urllib.request, json, re
+
+          url = "https://api.github.com/users/sushantkumar31/events/public?per_page=10"
+          req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+          events = json.loads(urllib.request.urlopen(req).read())
+
+          lines = []
+          for e in events[:5]:
+            etype = e.get("type", "")
+            repo = e.get("repo", {}).get("name", "")
+            if etype == "PushEvent":
+              commits = e.get("payload", {}).get("commits", [])
+              msg = commits[0].get("message", "") if commits else ""
+              lines.append(f"🔨 Pushed `{msg[:50]}` to [{repo}](https://github.com/{repo})")
+            elif etype == "CreateEvent":
+              lines.append(f"🎉 Created [{repo}](https://github.com/{repo})")
+            elif etype == "WatchEvent":
+              lines.append(f"⭐ Starred [{repo}](https://github.com/{repo})")
+            elif etype == "ForkEvent":
+              lines.append(f"🍴 Forked [{repo}](https://github.com/{repo})")
+
+          block = "\n".join(lines) if lines else "_No recent public activity yet._"
+          marker_start = "<!--START_SECTION:activity-->"
+          marker_end = "<!--END_SECTION:activity-->"
+
+          with open("README.md", "r") as f:
+            content = f.read()
+
+          new_content = re.sub(
+            f"{marker_start}.*?{marker_end}",
+            f"{marker_start}\n{block}\n{marker_end}",
+            content,
+            flags=re.DOTALL
+          )
+
+          with open("README.md", "w") as f:
+            f.write(new_content)
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update activity"
+          git push
