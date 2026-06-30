@@ -21,9 +21,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.athul.dev/api?username=sushantkumar31&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.athul.dev/api/top-langs/?username=sushantkumar31&layout=compact&theme=tokyonight&hide_border=true)
+![Commit Activity](https://img.shields.io/github/commit-activity/y/sushantkumar31/myAIML?style=flat&color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/sushantkumar31/myAIML?style=flat&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=sushantkumar31&color=blue&style=flat)
 
 ---
 
@@ -31,8 +31,9 @@
 ![Streak](https://streak-stats.demolab.com?user=sushantkumar31&theme=tokyonight&hide_border=true)
 ---
 
-## 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=sushantkumar31&theme=tokyonight&no-bg=true&margin-w=10)
+## 🏆 Achievements
+Check out my unlocked GitHub achievements directly on my [profile page](https://github.com/sushantkumar31).
+
 
 ---
 
