@@ -132,8 +132,8 @@ Jupyter Notebook         1 repo              ███████████�
 
 ## 📂 Repositories
 <!--START_SECTION:repos-->
-- [myAIML](https://github.com/sushantkumar31/myAIML) — Hands-on ML fundamentals using Jupyter notebooks — math, NumPy, Pandas, visualization ⭐ 0
 - [leetcode-solutions](https://github.com/sushantkumar31/leetcode-solutions) — Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0) ⭐ 0
+- [myAIML](https://github.com/sushantkumar31/myAIML) — Hands-on ML fundamentals using Jupyter notebooks — math, NumPy, Pandas, visualization ⭐ 0
 <!--END_SECTION:repos-->
 
 ---
