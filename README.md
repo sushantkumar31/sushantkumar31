@@ -81,6 +81,79 @@ Auto-synced LeetCode solutions organized by topic — tracking consistent DSA pr
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2039%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 4.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 85 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+🌆 Daytime                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+🌃 Evening                78 commits          █████████████████████░░░░   82.11 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   27 commits          ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+Tuesday                  21 commits          ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Saturday                 28 commits          ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+Sunday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   5 hrs 58 mins       ████████████████████████░   94.44 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 19 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+myAIML                   6 hrs 19 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  6 hrs 19 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+Jupyter Notebook         1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/main/assets/bar_graph.png)
+
+
+ Last Updated on 01/07/2026 14:49:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
