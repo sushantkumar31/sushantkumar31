@@ -35,7 +35,7 @@
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=py,java,js,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,js,html,css" alt="Languages" />
 
 <br><br>
 
@@ -43,7 +43,6 @@
 <br>
 <img src="https://skillicons.dev/icons?i=react,nodejs" alt="React, Node.js" />
 <br>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 <img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -136,7 +135,6 @@ A Streamlit app that shows exactly how different feature engineering choices mov
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sushantkumar31)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushantkumar-bellana-36746140b)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SushantKumar3110/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logoColor=white)](https://sushantkumar31.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushantkumarbellana@gmail.com)
 
 </div>
