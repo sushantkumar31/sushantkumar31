@@ -84,7 +84,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sushantkumar31&theme=tokyonight&no-frame=true&margin-w=10&column=-1" alt="GitHub Trophies" />
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </p>
 
 <br>
