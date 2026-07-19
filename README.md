@@ -109,7 +109,7 @@ A Streamlit app that shows exactly how different feature engineering choices mov
 
 `Python` `Streamlit` `scikit-learn`
 
-[🔗 Repository](https://github.com/sushantkumar31/feature-engineering-impact-analyzer) · [🌐 Live Demo](https://feature-engineering-impact-analyzer.streamlit.app/)
+[🔗 Repository](https://github.com/sushantkumar31/feature-engineering-impact-analyzer) · [🌐 Live Demo](https://feature-engineering-analyzer-slr4etpc88hhfg6b3ouahx.streamlit.app/)
 
 <sub>Also maintains <a href="https://github.com/sushantkumar31/leetcode-solutions">leetcode-solutions</a> (structured DSA practice) and <a href="https://github.com/sushantkumar31/myAIML">myAIML</a> (AI/ML learning notebooks).</sub>
 
