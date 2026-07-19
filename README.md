@@ -73,8 +73,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="./profile/stats.svg" alt="Sushant's GitHub Stats" />
-  <img width="49%" src="./profile/top-langs.svg" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=sushantkumar31&show_icons=true&theme=tokyonight&hide_border=true" alt="Sushant's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sushantkumar31&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=sushantkumar31&theme=tokyonight&no-frame=true&margin-w=10&column=-1" alt="GitHub Trophies" />
 </p>
 
 <br>
