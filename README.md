@@ -50,7 +50,7 @@
 
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 <br/>
 
@@ -72,6 +72,7 @@
 <td width="50%">
 
 ### Feature Engineering Impact Analyzer
+
 Streamlit app that shows how different feature engineering choices affect model performance. Live demo included.
 
 `Python` `Streamlit` `scikit-learn`
@@ -83,6 +84,7 @@ Streamlit app that shows how different feature engineering choices affect model 
 <td width="50%">
 
 ### myAIML
+
 Structured AI/ML learning journey — from linear regression to transformers with real implementations.
 
 `Python` `Jupyter` `scikit-learn` `NumPy`
@@ -95,6 +97,7 @@ Structured AI/ML learning journey — from linear regression to transformers wit
 <td width="50%">
 
 ### LeetCode Solutions
+
 DSA practice organized by topic — arrays, trees, graphs, dynamic programming, and more.
 
 `Python` `Data Structures` `Algorithms`
@@ -105,6 +108,7 @@ DSA practice organized by topic — arrays, trees, graphs, dynamic programming, 
 <td width="50%">
 
 ### More Projects
+
 Check out pinned repos and contribution graph for what I'm working on.
 
 [![Profile](https://img.shields.io/badge/All_Repos-7AA2F7?style=flat-square&logo=github)](https://github.com/sushantkumar31?tab=repositories)
@@ -168,8 +172,4 @@ Check out pinned repos and contribution graph for what I'm working on.
 
 </div>
 
-<div align="center">
-
-Thanks for visiting! Always open to collaborating on interesting AI/ML projects.
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b26&height=80&section=footer" alt="footer" />
