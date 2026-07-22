@@ -1,214 +1,175 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:414868&height=220&section=header&text=Sushant%20Kumar%20Bellana&fontSize=44&fontColor=c0caf5&fontAlignY=36&animation=fadeIn&desc=Building%20AI%20systems%20that%20ship%2C%20not%20just%20notebooks&descAlignY=58&descSize=16" alt="header banner" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Third-year+AI+ML+Engineering+student;Building+RAG+and+agent-based+systems;From+classical+ML+to+LLMs+in+production;Currently+building%3A+Feature+Engineering+Impact+Analyzer" alt="Typing SVG" />
+<a href="https://github.com/sushantkumar31">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=200&section=header&text=Sushant%20Kumar%20Bellana&fontSize=40&fontColor=c0caf5&fontAlignY=45&desc=AI%2FML%20Engineer%20%7C%20Building%20systems%20that%20ship&descAlignY=65&descSize=14&animation=fadeIn" alt="banner" />
 </a>
 
-<br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+RAG+and+agent-based+AI+systems;From+classical+ML+to+LLMs+in+production;Open+to+AI%2FML+roles+at+Big+Tech+%26+startups" alt="typing svg" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=sushantkumar31&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/sushantkumar31?label=FOLLOWERS&style=for-the-badge&color=7aa2f7&logo=github&logoColor=white" alt="GitHub followers" />
+<br/>
 
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-1a1b26?style=for-the-badge&labelColor=00b947&color=c0caf5&logo=supporttheproject&logoColor=c0caf5" alt="Open to Work" />
+[![Profile Views](https://komarev.com/ghpvc/?username=sushantkumar31&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS)](https://github.com/sushantkumar31)
+[![Followers](https://img.shields.io/github/followers/sushantkumar31?style=flat-square&color=7aa2f7&logo=github)](https://github.com/sushantkumar31?tab=followers)
+[![Stars](https://img.shields.io/github/stars/sushantkumar31?style=flat-square&color=FFD43B&logo=github)](https://github.com/sushantkumar31?tab=repositories&sort=stargazers)
 
 </div>
 
-<br>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:414868&height=3" />
+## About Me
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20-%20Professions/Student.png" alt="Student" width="25" height="25"> About Me
+- Third-year **B.Tech CSE (AI/ML)** student at **IIITDM Jabalpur**
+- Building production-grade AI systems — RAG pipelines, LLM agents, and ML workflows that ship, not just notebooks
+- Working through a **41-topic AI/ML roadmap** (deep in Classical ML) + parallel DSA prep for interviews
+- Previously: Python version mismatch took longer to fix than the feature it was blocking. Pinning **Python 3.12** won.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/High%20Voltage.png" alt="Lightning" width="20" height="20"> Third-year **B.Tech CSE (AI/ML)** student at IIITDM Jabalpur, working toward a career as an **AI/ML Engineer**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="20" height="20"> Hybrid Software + AI/ML engineer — LLMs, RAG pipelines, and agent-based systems built to ship, not just notebooks to read
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20-%20Fantasy/Wizard.png" alt="Wizard" width="20" height="20"> Working through a structured 41-topic AI/ML roadmap, currently deep in **Classical ML**, alongside parallel DSA prep for interviews
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bullseye.png" alt="Target" width="20" height="20"> Targeting AI/ML roles at Big Tech, AI-first startups, and product companies
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Fun" width="20" height="20"> Fun fact: I once spent longer fixing a Python-version mismatch while deploying a project than I did building the feature it was blocking — pinning **Python 3.12** won in the end
+---
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:414868&height=3" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25"> Tech Stack
+## Tech Stack
 
 <div align="center">
 
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=py,js,html,css" alt="Languages" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<br><br>
+<br/>
 
-**Frameworks & Libraries**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nodejs" alt="React, Node.js" />
-<br>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-<br><br>
+<br/>
 
-**Databases**
-<br>
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
-<img src="https://img.shields.io/badge/ChromaDB-FFBE2A?style=for-the-badge&logo=chromadb&logoColor=black" alt="ChromaDB" />
-<img src="https://img.shields.io/badge/FAISS-0078D4?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-<br><br>
+<br/>
 
-**Tools & Platforms**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker" alt="Git, GitHub, Docker" />
-<img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white" alt="uv" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
-<br>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:414868&height=3" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" alt="Rocket" width="25" height="25"> Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="22" height="22"> Feature Engineering Impact Analyzer
-A Streamlit app that shows exactly how different feature engineering choices move the needle on model performance — deployed live so anyone can try it, not just read about it.
+### Feature Engineering Impact Analyzer
+Streamlit app that shows how different feature engineering choices affect model performance. Live demo included.
 
 `Python` `Streamlit` `scikit-learn`
 
-[![Repo](https://img.shields.io/badge/Repository-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5)](https://github.com/sushantkumar31/feature-engineering-impact-analyzer) [![Live](https://img.shields.io/badge/Live_Demo-00b947?style=for-the-badge&logo=streamlit&logoColor=white)](https://feature-engineering-analyzer-slr4etpc88hhfg6b3ouahx.streamlit.app/)
+[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/sushantkumar31/feature-engineering-impact-analyzer)
+[![Live](https://img.shields.io/badge/Live_App-00b947?style=flat-square&logo=streamlit)](https://feature-engineering-analyzer-slr4etpc88hhfg6b3ouahx.streamlit.app/)
 
 </td>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="22" height="22"> myAIML
-Structured AI/ML learning journey — from linear regression to transformers, with hands-on notebooks and real implementations, not just theory.
+### myAIML
+Structured AI/ML learning journey — from linear regression to transformers with real implementations.
 
-`Python` `Jupyter` `NumPy` `Pandas` `scikit-learn`
+`Python` `Jupyter` `scikit-learn` `NumPy`
 
-[![Repo](https://img.shields.io/badge/Repository-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5)](https://github.com/sushantkumar31/myAIML)
+[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/sushantkumar31/myAIML)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" alt="Puzzle" width="22" height="22"> LeetCode Solutions
-Structured DSA practice — organized by topic with explanations, covering arrays, trees, graphs, dynamic programming, and more.
+### LeetCode Solutions
+DSA practice organized by topic — arrays, trees, graphs, dynamic programming, and more.
 
-`Python` `DSA`
+`Python` `Data Structures` `Algorithms`
 
-[![Repo](https://img.shields.io/badge/Repository-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5)](https://github.com/sushantkumar31/leetcode-solutions)
+[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/sushantkumar31/leetcode-solutions)
 
 </td>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="22" height="22"> More Projects
-Building every day. Check out my pinned repositories and contribution graph for what I'm currently working on.
+### More Projects
+Check out pinned repos and contribution graph for what I'm working on.
 
-[![Profile](https://img.shields.io/badge/View_Profile-7AA2F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sushantkumar31?tab=repositories)
+[![Profile](https://img.shields.io/badge/All_Repos-7AA2F7?style=flat-square&logo=github)](https://github.com/sushantkumar31?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:414868&height=3" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Award.png" alt="Award" width="25" height="25"> Certifications
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Anthropic_Academy-1a1b26?style=for-the-badge&logo=anthropic&logoColor=c0caf5" alt="Anthropic Academy" />
-<img src="https://img.shields.io/badge/OpenAI_Academy-1a1b26?style=for-the-badge&logo=openai&logoColor=c0caf5" alt="OpenAI Academy" />
-<img src="https://img.shields.io/badge/Google_AI_Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Essentials" />
-<img src="https://img.shields.io/badge/AWS_AI_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS AI Practitioner" />
-<img src="https://img.shields.io/badge/Kaggle_ML-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle ML" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=sushantkumar31&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sushantkumar31&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:414868&height=3" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chart_Increasing.png" alt="Stats" width="25" height="25"> GitHub Stats
-
-<p align="center">
-  <img width="49%" src="profile/stats.svg" alt="GitHub Stats" />
-  <img width="49%" src="profile/top-langs.svg" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=sushantkumar31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:414868&height=3" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graph.png" alt="Graph" width="25" height="25"> Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sushantkumar31&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&area_color=7aa2f7" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-</p>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:414868&height=3" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Compass.png" alt="Compass" width="25" height="25"> Currently Learning
 
 <div align="center">
 
-| Track | Status |
-|:------|:-------|
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="20" height="20"> 41-Topic AI/ML Roadmap | Deep in **Classical ML** |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" alt="Puzzle" width="20" height="20"> DSA Interview Prep | **Hashing** and **Graphs** |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" height="20"> Certifications | Anthropic, OpenAI, Google AI, AWS |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Art.png" alt="Art" width="20" height="20"> Kaggle ML Track | Working through the full track |
+<img src="https://streak-stats.demolab.com?user=sushantkumar31&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<br>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:414868&height=3" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Mail" width="25" height="25"> Let's Connect
+## Contribution Graph
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sushantkumar31)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushantkumar-bellana-36746140b)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SushantKumar3110/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushantkumarbellana@gmail.com)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sushantkumar31&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&area_color=7aa2f7)
 
 </div>
 
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</p>
+
+---
+
+## Currently Learning
+
+| Track | Progress |
+|:------|:---------|
+| AI/ML Roadmap (41 topics) | Classical ML |
+| DSA Interview Prep | Hashing & Graphs |
+| Certifications | Anthropic Academy, OpenAI Academy, Google AI Essentials, AWS AI Practitioner |
+| Kaggle ML Track | In progress |
+
+---
+
+## Connect
 
 <div align="center">
 
-**Thanks for visiting! Feel free to reach out — I'm always open to collaborating on interesting AI/ML projects.**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sushantkumar31)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sushantkumar-bellana-36746140b)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/SushantKumar3110/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail)](mailto:sushantkumarbellana@gmail.com)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b26&height=100&section=footer" alt="footer" />
+<div align="center">
+
+Thanks for visiting! Always open to collaborating on interesting AI/ML projects.
+
+</div>
