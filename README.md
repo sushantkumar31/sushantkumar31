@@ -159,14 +159,6 @@ Building every day. Check out my pinned repositories and contribution graph for 
   <img width="70%" src="https://streak-stats.demolab.com/?user=sushantkumar31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25"> GitHub Trophies
-
-<p align="center">
-  <img src="profile/trophy.svg" alt="GitHub Trophies" />
-</p>
-
-<br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:414868&height=3" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graph.png" alt="Graph" width="25" height="25"> Contribution Activity
