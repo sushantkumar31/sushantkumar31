@@ -18,6 +18,5 @@ jobs:
         with:
           github_user_name: sushantkumar31
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          branch: output
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
