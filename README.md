@@ -1,88 +1,78 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7AA2F7&height=140&section=header&text=Sushant%20Kumar%20Bellana&fontSize=36&fontColor=c0caf5&fontAlignY=38&desc=AI%2FML%20Learner%20%7C%20Building%20in%20public%20%7C%20CS%20Undergrad&descSize=14&descAlignY=62" alt="header" />
-
-```python
-class SushantKumar:
-    def __init__(self):
-        self.role = "CS Student · AI/ML Learner"
-        self.focus = ["feature engineering", "LLMs", "ML fundamentals"]
-        self.motto = "Learn loudly, build consistently, share openly."
-        self.status = "open to collaboration 🚀"
-```
-
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&repeat=true&width=640&height=45&lines=Turning+data+into+insight;Shipping+real+ML+projects;Always+learning%2C+always+building)](https://readme-typing-svg.demolab.com)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=sushantkumar31&color=7aa2f7&style=flat-square&label=Profile+Views)](https://github.com/sushantkumar31)
-[![Followers](https://img.shields.io/github/followers/sushantkumar31?style=flat-square&color=7aa2f7&logo=github&logoColor=white)](https://github.com/sushantkumar31?tab=followers)
+<img src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/main/profile/banner.svg" alt="sushantkumar31" width="100%" />
 
 </div>
 
----
-
-## 🤖 About Me
-
-CS student who treats every idea as a chance to learn something new — and then build it.
-
-- 🎓 B.Tech (AIML) — where **Math** meets **Code**
-- 🧠 Exploring **Classical ML → LLMs**, one concept at a time
-- 🐍 Python, NumPy, Pandas, scikit-learn — my daily drivers
-- 🔭 Currently levelling up in **ML fundamentals** + **DSA**
-- ✨ Philosophy: *"Two ears, one mouth — listen to the data, then speak."*
+```
+ ● The Noise-free Profile ●
+ Try an empty search. There's nothing here you haven't already seen
+ in 1000 other READMEs — every badge, every typing SVG.
+ This one is mine.
+```
 
 ---
 
-## 🛠️ My Stack
+## ◍ Who Am I?
+
+> Mostly harmless. Occasionally ships code.
+
+- ✦ **CS undergrad (AIML)** — the person who reads the docs before the error
+- ✦ **Building** a public ML journey: clean notes, real implementations, zero gatekeeping
+- ✦ **Currently** — Classical ML deep-dive + DSA reps at the gym of LeetCode
+- ✦ **Thesis of the month:** *feature engineering pays the rent; models just decorate it*
+
+---
+
+## ◍ The Toolbox
 
 <p align="center">
 
-| Domain | Badges |
-|:-------|:-------|
-| **Language & Core ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Data & Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **App & Tooling** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+[and yes, the colours matter to me]
 
 </p>
 
----
-
-## 🚀 Featured Projects
-
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🔍 Feature Engineering Impact Analyzer</h3>
-      <p>Hands-on Streamlit tool that <b>visualises how feature engineering choices change model performance</b> — make the change, see the impact instantly.</p>
-      <a href="https://github.com/sushantkumar31/feature-engineering-analyzer"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-      <a href="https://feature-engineering-analyzer-slr4etpc88hhfg6b3ouahx.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-00b947?style=for-the-badge&logo=streamlit&logoColor=white"></a>
-    </td>
-    <td align="center" width="50%">
-      <h3>📚 myAIML</h3>
-      <p>My <b>structured AI/ML learning journey</b> — from linear regression to transformers, every concept backed by real implementations.</p>
-      <a href="https://github.com/sushantkumar31/myAIML"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>💻 LeetCode Solutions</h3>
-      <p><b>DSA practice, organised by topic</b> — arrays, trees, graphs and dynamic programming, with clean Python solutions.</p>
-      <a href="https://github.com/sushantkumar31/leetcode-solutions"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🗂️ All My Repos</h3>
-      <p>Watch my journey unfold — <b>new projects are landing on a regular basis</b> as I level up.</p>
-      <a href="https://github.com/sushantkumar31?tab=repositories"><img src="https://img.shields.io/badge/View_All-7AA2F7?style=for-the-badge&logo=github&logoColor=white"></a>
-    </td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub at a Glance
+## ◍ Projects Worth a Click
+
+<div align="center">
+
+| | |
+|:---|:---|
+| **🔍 Feature Engineering Impact Analyzer**<br/>*Hit the slider, watch the metric move.* A Streamlit playground that shows how feature engineering choices move model performance.<br/>[![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sushantkumar31/feature-engineering-analyzer) [![Live](https://img.shields.io/badge/Live_Demo-00b947?style=for-the-badge&logo=streamlit&logoColor=white)](https://feature-engineering-analyzer-slr4etpc88hhfg6b3ouahx.streamlit.app/) | **📚 myAIML**<br/>*From `y = mx + b` to attention is all you need*, one honest notebook at a time — my public AI/ML curriculum.<br/>[![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sushantkumar31/myAIML) |
+| **💻 LeetCode Solutions**<br/>*DSA with receipts.* Problems solved by topic, explained in my own words.<br/>[![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sushantkumar31/leetcode-solutions) | **🗂️ Everything else**<br/>More pinned, more commits, more chaos — check the repos.<br/>[![Repos](https://img.shields.io/badge/View_All-7AA2F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sushantkumar31?tab=repositories) |
+
+</div>
+
+---
+
+## ◍ Currently Powering Up
+
+```
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░]  Classical ML          — 80% (nearly there)
+[▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░]  DSA Interview Prep    — 55% (hashing & graphs)
+[▓▓▓▓▓░░░░░░░░░░░░░░░]  LLM & RAG systems     — 30% (curiosity-driven)
+[▓▓░░░░░░░░░░░░░░░░░░]  Kaggle Competitions   — 15% (first medal pending)
+```
+
+---
+
+## ◍ Numbers Don't Lie
 
 <div align="center">
 
@@ -97,13 +87,11 @@ CS student who treats every idea as a chance to learn something new — and then
 
 ---
 
-## 📈 Contribution Activity
+## ◍ The Activity (some assembly required)
 
 <div align="center">
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sushantkumar31&theme=tokyo-night&hide_border=true&area=true&area_color=7AA2F7&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5)](https://github.com/sushantkumar31)
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
@@ -111,9 +99,10 @@ CS student who treats every idea as a chance to learn something new — and then
 
 ---
 
-## 🤝 Let's Connect
+## ◍ Drop In
 
-Always happy to talk **AI/ML, code, or collabs** — pull requests, ideas and honest feedback all welcome!
+> The kettle is always on. Collaboration, feedback, or a heated debate about
+> whether pandas applies right-to-left — all welcome.
 
 <div align="center">
 
@@ -125,8 +114,6 @@ Always happy to talk **AI/ML, code, or collabs** — pull requests, ideas and ho
 
 ---
 
-<div align="center">
-  <i>"The only way to learn is to build — and the only way to build is to start."</i>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:1a1b26&height=110&section=footer" alt="footer" />
+<p align="center">
+  <sub>crafted by hand · no template was harmed · last tuned by a human</sub>
+</p>
