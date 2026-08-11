@@ -1,0 +1,13 @@
+{
+  "typing_lines": [
+    "Machine Learning learner",
+    "Python \u00b7 NumPy \u00b7 Pandas \u00b7 scikit-learn",
+    "Building in public every day"
+  ],
+  "focus": [
+    { "topic": "Classical ML", "progress": 80 },
+    { "topic": "DSA Interview Prep", "progress": 55 },
+    { "topic": "LLM & RAG systems", "progress": 30 },
+    { "topic": "Kaggle Competitions", "progress": 15 }
+  ]
+}

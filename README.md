@@ -5,7 +5,8 @@
 
 <br/>
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&repeat=true&width=640&height=45&lines=Machine+Learning+learner;Python+%C2%B7+NumPy+%C2%B7+Pandas+%C2%B7+scikit-learn;Building+in+public+every+day)](https://readme-typing-svg.demolab.com)
+<!-- Baked by GitHub Actions daily — edit profile/config.json to change the lines -->
+<img src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/main/assets/typing.svg" alt="Typing animation" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sushantkumar31&color=7aa2f7&style=flat-square&label=Profile+Views)](https://github.com/sushantkumar31)
 [![Followers](https://img.shields.io/github/followers/sushantkumar31?style=flat-square&color=7aa2f7&logo=github&logoColor=white)](https://github.com/sushantkumar31?tab=followers)
@@ -27,12 +28,12 @@ CS student & AI/ML learner who builds what he learns. Currently deep in the clas
 
 ## Current Focus
 
-```
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░] Classical ML        — 80%
-[▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░] DSA Interview Prep  — 55%
-[▓▓▓▓▓░░░░░░░░░░░░░░░] LLM & RAG systems   — 30%
-[▓▓░░░░░░░░░░░░░░░░░░] Kaggle Competitions — 15%
-```
+<!-- FOCUS:START -->
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░] Classical ML — 80%
+[▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░] DSA Interview Prep — 55%
+[▓▓▓▓▓▓░░░░░░░░░░░░░░] LLM & RAG systems — 30%
+[▓▓▓░░░░░░░░░░░░░░░░░] Kaggle Competitions — 15%
+<!-- FOCUS:END -->
 
 ---
 
@@ -80,12 +81,13 @@ Everything I've built or am building lives in my [repositories tab](https://gith
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.shion.dev/api?username=sushantkumar31&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sushantkumar31&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<!-- Baked daily by GitHub Actions — never breaks even if the host service goes down -->
+<img height="170em" src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/main/assets/stats.svg" alt="GitHub Stats" />
+<img height="170em" src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/main/assets/top-langs.svg" alt="Top Languages" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sushantkumar31&theme=tokyonight&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+<img src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/main/assets/streak.svg" alt="GitHub Streak" />
 
 </div>
 
@@ -95,7 +97,7 @@ Everything I've built or am building lives in my [repositories tab](https://gith
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sushantkumar31&theme=tokyo-night&hide_border=true&area=true&area_color=7AA2F7&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5)](https://github.com/sushantkumar31)
+<img src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/main/assets/activity-graph.svg" alt="Contribution Graph" />
 
 <!-- Theme-aware snake: light/dark auto-selected via official GitHub picture pattern -->
 <picture>
@@ -105,6 +107,15 @@ Everything I've built or am building lives in my [repositories tab](https://gith
 </picture>
 
 </div>
+
+---
+
+## Recent Activity
+
+<!-- ACTIVITY:START -->
+Latest activity will appear here after the next refresh.
+<!-- ACTIVITY:END -->
+
 
 ---
 
@@ -131,5 +142,5 @@ This profile is agent-readable. Structured facts live in [`AGENTS.md`](./AGENTS.
 </details>
 
 <p align="center">
-  <sub>crafted by hand · every link verified working · no template harmed</sub>
+  <sub>crafted by hand · powered by a daily auto-refresh · no template harmed</sub>
 </p>
