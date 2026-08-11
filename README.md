@@ -103,14 +103,7 @@ CS student & AI/ML learner who builds what he learns.
 ## Recent Activity
 
 <!-- ACTIVITY:START -->
-- 🔨 Pushed **0** commit(s) to `sushantkumar31` — 2026-08-11
-- 🔨 Pushed **0** commit(s) to `sushantkumar31` — 2026-08-11
-- 🔨 Pushed **0** commit(s) to `sushantkumar31` — 2026-08-11
-- 🔨 Pushed **0** commit(s) to `sushantkumar31` — 2026-08-11
-- 🔨 Pushed **0** commit(s) to `sushantkumar31` — 2026-08-11
-- 🔨 Pushed **0** commit(s) to `sushantkumar31` — 2026-08-11
-- 🔨 Pushed **0** commit(s) to `sushantkumar31` — 2026-08-09
-- 🔨 Pushed **0** commit(s) to `sushantkumar31` — 2026-08-09
+- 🔨 Pushed **1** commit(s) to `myAIML` — 2026-07-24
 <!-- ACTIVITY:END -->
 
 ---

@@ -117,9 +117,12 @@ def focus_block(config: dict) -> str:
 
 def recent_activity(token: str) -> str:
     """Pull the latest public events and render a human-readable list."""
+    headers = {"User-Agent": "profile-bot"}
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
     req = urllib.request.Request(
-        f"https://api.github.com/users/{USER}/events?per_page=8",
-        headers={"User-Agent": "profile-bot", "Authorization": f"Bearer {token}"},
+        f"https://api.github.com/users/{USER}/events?per_page=12",
+        headers=headers,
     )
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
@@ -131,10 +134,15 @@ def recent_activity(token: str) -> str:
     for ev in events:
         kind = ev.get("type")
         repo = ev.get("repo", {}).get("name", "").split("/")[-1]
+        full_repo = ev.get("repo", {}).get("name", "")
         day = ev.get("created_at", "")[:10]
         payload = ev.get("payload", {})
+        if full_repo == f"{USER}/{USER}":
+            continue  # skip the profile repo's own auto-refresh pushes
         if kind == "PushEvent":
-            n = payload.get("size", 0)
+            n = payload.get("size")
+            if n is None:
+                n = len(payload.get("commits", [])) or 1
             lines.append(f"- 🔨 Pushed **{n}** commit(s) to `{repo}` — {day}")
         elif kind == "PullRequestEvent":
             lines.append(f"- 🔀 {payload.get('action', 'updated').title()} a PR in `{repo}` — {day}")
