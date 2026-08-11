@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Main header: hand-crafted terminal banner (own file, not a template) -->
 <img src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/main/profile/banner.svg" alt="Sushant Kumar Bellana" width="100%" />
 
 <br/>
 
-<!-- Baked by GitHub Actions daily — edit profile/config.json to change the lines -->
 <img src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/main/assets/typing.svg" alt="Typing animation" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sushantkumar31&color=7aa2f7&style=flat-square&label=Profile+Views)](https://github.com/sushantkumar31)
@@ -17,12 +15,12 @@
 
 ## About
 
-CS student & AI/ML learner who builds what he learns. Currently deep in the classical-ML fundamentals — the kind that make LLMs make sense.
+CS student & AI/ML learner who builds what he learns.
 
-- 🎓 **B.Tech CSE (AIML)** — where math meets code
-- 🤖 **Exploring** feature engineering → classical ML → LLMs
-- 📚 **Learning out loud** — every concept becomes a notebook, every notebook a repo
-- 🧩 **Grinding DSA** for clean, efficient solutions
+- 🎓 **B.Tech CSE (AIML)**
+- 🧠 Exploring feature engineering → classical ML → LLMs
+- 📚 Every concept becomes a notebook; every notebook becomes a repo
+- 🧩 Consistent DSA practice in Python
 
 ---
 
@@ -57,23 +55,11 @@ CS student & AI/ML learner who builds what he learns. Currently deep in the clas
 
 ## Featured Work
 
-<div align="center">
-
 | Project | What it is | Links |
 |:--------|:-----------|:------|
-| **Feature Engineering Impact Analyzer** | Streamlit playground — change a feature-engineering choice, watch model performance move | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sushantkumar31/feature-engineering-analyzer) [![Live](https://img.shields.io/badge/Live-00b947?style=flat-square&logo=streamlit&logoColor=white)](https://feature-engineering-analyzer-slr4etpc88hhfg6b3ouahx.streamlit.app/) |
+| **Feature Engineering Impact Analyzer** | Streamlit app — change a feature-engineering choice, watch model performance move | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sushantkumar31/feature-engineering-analyzer) [![Live](https://img.shields.io/badge/Live-00b947?style=flat-square&logo=streamlit&logoColor=white)](https://feature-engineering-analyzer-slr4etpc88hhfg6b3ouahx.streamlit.app/) |
 | **myAIML** | Structured AI/ML learning journey — linear regression → transformers, with real implementations | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sushantkumar31/myAIML) |
 | **LeetCode Solutions** | DSA practice by topic — arrays, trees, graphs, DP — in clean Python | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sushantkumar31/leetcode-solutions) |
-
-</div>
-
-<details>
-<summary>🗂️ See all repositories</summary>
-<br/>
-
-Everything I've built or am building lives in my [repositories tab](https://github.com/sushantkumar31?tab=repositories). New stuff lands regularly as the roadmap progresses.
-
-</details>
 
 ---
 
@@ -81,7 +67,6 @@ Everything I've built or am building lives in my [repositories tab](https://gith
 
 <div align="center">
 
-<!-- Baked daily by GitHub Actions — never breaks even if the host service goes down -->
 <img height="170em" src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/main/assets/stats.svg" alt="GitHub Stats" />
 <img height="170em" src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/main/assets/top-langs.svg" alt="Top Languages" />
 
@@ -99,11 +84,10 @@ Everything I've built or am building lives in my [repositories tab](https://gith
 
 <img src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/main/assets/activity-graph.svg" alt="Contribution Graph" />
 
-<!-- Theme-aware snake: light/dark auto-selected via official GitHub picture pattern -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -123,12 +107,9 @@ Everything I've built or am building lives in my [repositories tab](https://gith
 - 🔨 Pushed **0** commit(s) to `sushantkumar31` — 2026-08-09
 <!-- ACTIVITY:END -->
 
-
 ---
 
 ## Connect
-
-Open to collaboration, feedback, and discussions about AI/ML, Python, and everything code.
 
 <div align="center">
 
@@ -144,10 +125,10 @@ Open to collaboration, feedback, and discussions about AI/ML, Python, and everyt
 <summary>🤖 For agents & AI</summary>
 <br/>
 
-This profile is agent-readable. Structured facts live in [`AGENTS.md`](./AGENTS.md) and a machine-parseable summary in [`llms.txt`](./llms.txt).
+Structured facts: [`AGENTS.md`](./AGENTS.md) · Machine summary: [`llms.txt`](./llms.txt)
 
 </details>
 
-<p align="center">
-  <sub>crafted by hand · powered by a daily auto-refresh · no template harmed</sub>
+<p align="center" style="margin-top: 12px;">
+  <sub>auto-refreshed daily · no template harmed</sub>
 </p>
