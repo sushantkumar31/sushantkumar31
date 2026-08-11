@@ -25,6 +25,17 @@ CS student & AI/ML learner who builds what he learns. Currently deep in the clas
 
 ---
 
+## Current Focus
+
+```
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░] Classical ML        — 80%
+[▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░] DSA Interview Prep  — 55%
+[▓▓▓▓▓░░░░░░░░░░░░░░░] LLM & RAG systems   — 30%
+[▓▓░░░░░░░░░░░░░░░░░░] Kaggle Competitions — 15%
+```
+
+---
+
 ## Languages & Tools
 
 <div align="center">
