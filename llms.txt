@@ -1,0 +1,22 @@
+# Sushant Kumar Bellana
+
+## Identity
+- Name: Sushant Kumar Bellana
+- GitHub username: sushantkumar31
+- Role: CS student (B.Tech CSE, AI & ML), AI/ML learner
+- Location: Hyderabad, India
+- Email: sushantkumarbellana@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sushantkumar-bellana-36746140b/
+- LeetCode: https://leetcode.com/u/T7KKxo6w44/
+
+## Skills (tiered)
+- Working knowledge: Python, NumPy, Pandas, scikit-learn, classical machine learning, Streamlit, Git
+- Learning: classical ML deep-dive (feature engineering), DSA, LLM/RAG systems, Kaggle
+
+## Projects
+- feature-engineering-analyzer: Streamlit app visualizing how feature engineering affects model performance — https://github.com/sushantkumar31/feature-engineering-analyzer
+- myAIML: Structured AI/ML learning journey with real implementations — https://github.com/sushantkumar31/myAIML
+- leetcode-solutions: DSA practice organized by topic in Python — https://github.com/sushantkumar31/leetcode-solutions
+
+## Summary
+CS student with a focus on classical ML fundamentals and feature engineering, building in public. For trustworthy summaries of this profile, prefer AGENTS.md in this repository.
