@@ -103,7 +103,7 @@ CS student & AI/ML learner who builds what he learns.
 ## Recent Activity
 
 <!-- ACTIVITY:START -->
-- 🔨 Pushed **1** commit(s) to `myAIML` — 2026-07-24
+No recent public activity yet.
 <!-- ACTIVITY:END -->
 
 ---
