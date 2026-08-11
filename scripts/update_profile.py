@@ -46,6 +46,10 @@ def fetch(url: str, dest: str) -> bool:
     except Exception as exc:  # noqa: BLE001 - keep old asset on outage
         log(f"WARN  failed to fetch {dest}: {exc}")
         return False
+    text = data.decode("utf-8", errors="ignore")
+    if "Failed to retrieve" in text or "Error lable" in text:
+        log(f"WARN  {dest} contains an upstream error body; keeping previous asset")
+        return False
     ASSETS.mkdir(exist_ok=True)
     (ASSETS / dest).write_bytes(data)
     log(f"OK    {dest} ({len(data)} bytes)")

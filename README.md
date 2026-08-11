@@ -1,10 +1,13 @@
 <div align="center">
 
+<!-- Header: Tokyo Night banner (bg #1a1b26 · accent #7AA2F7) -->
 <img src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/main/profile/banner.svg" alt="Sushant Kumar Bellana" width="100%" />
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/main/assets/typing.svg" alt="Typing animation" />
+
+<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sushantkumar31&color=7aa2f7&style=flat-square&label=Profile+Views)](https://github.com/sushantkumar31)
 [![Followers](https://img.shields.io/github/followers/sushantkumar31?style=flat-square&color=7aa2f7&logo=github&logoColor=white)](https://github.com/sushantkumar31?tab=followers)
@@ -39,15 +42,15 @@ CS student & AI/ML learner who builds what he learns.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&color=24283b&logoColor=7aa2f7)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&color=24283b&logoColor=7aa2f7)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&color=24283b&logoColor=7aa2f7)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&color=24283b&logoColor=7aa2f7)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&color=24283b&logoColor=7aa2f7)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&color=24283b&logoColor=7aa2f7)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&color=24283b&logoColor=7aa2f7)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&color=24283b&logoColor=7aa2f7)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&color=24283b&logoColor=7aa2f7)
 
 </div>
 
@@ -55,11 +58,14 @@ CS student & AI/ML learner who builds what he learns.
 
 ## Featured Work
 
-| Project | What it is | Links |
-|:--------|:-----------|:------|
-| **Feature Engineering Impact Analyzer** | Streamlit app — change a feature-engineering choice, watch model performance move | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sushantkumar31/feature-engineering-analyzer) [![Live](https://img.shields.io/badge/Live-00b947?style=flat-square&logo=streamlit&logoColor=white)](https://feature-engineering-analyzer-slr4etpc88hhfg6b3ouahx.streamlit.app/) |
-| **myAIML** | Structured AI/ML learning journey — linear regression → transformers, with real implementations | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sushantkumar31/myAIML) |
-| **LeetCode Solutions** | DSA practice by topic — arrays, trees, graphs, DP — in clean Python | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sushantkumar31/leetcode-solutions) |
+<div align="center">
+
+| | |
+|:---:|:---:|
+| **🔍 Feature Engineering Impact Analyzer**<br/>Streamlit app — change a feature-engineering choice, watch model performance move<br/><br/>[![Code](https://img.shields.io/badge/Source_Code-24283b?style=flat-square&logo=github&logoColor=7aa2f7)](https://github.com/sushantkumar31/feature-engineering-analyzer) [![Live](https://img.shields.io/badge/Live_Demo-9ece6a?style=flat-square&logo=streamlit&logoColor=1a1b26)](https://feature-engineering-analyzer-slr4etpc88hhfg6b3ouahx.streamlit.app/) | **📚 myAIML**<br/>Structured AI/ML learning journey — linear regression → transformers, with real implementations<br/><br/>[![Code](https://img.shields.io/badge/Source_Code-24283b?style=flat-square&logo=github&logoColor=7aa2f7)](https://github.com/sushantkumar31/myAIML) |
+| **💻 LeetCode Solutions**<br/>DSA practice by topic — arrays, trees, graphs, DP — in clean Python<br/><br/>[![Code](https://img.shields.io/badge/Source_Code-24283b?style=flat-square&logo=github&logoColor=7aa2f7)](https://github.com/sushantkumar31/leetcode-solutions) | **🗂️ All Repositories**<br/>Everything I'm working on, in one place<br/><br/>[![Repos](https://img.shields.io/badge/View_All-24283b?style=flat-square&logo=github&logoColor=7aa2f7)](https://github.com/sushantkumar31?tab=repositories) |
+
+</div>
 
 ---
 
@@ -97,14 +103,7 @@ CS student & AI/ML learner who builds what he learns.
 ## Recent Activity
 
 <!-- ACTIVITY:START -->
-- 🔨 Pushed **0** commit(s) to `sushantkumar31` — 2026-08-11
-- 🔨 Pushed **0** commit(s) to `sushantkumar31` — 2026-08-11
-- 🔨 Pushed **0** commit(s) to `sushantkumar31` — 2026-08-11
-- 🔨 Pushed **0** commit(s) to `sushantkumar31` — 2026-08-11
-- 🔨 Pushed **0** commit(s) to `sushantkumar31` — 2026-08-11
-- 🔨 Pushed **0** commit(s) to `sushantkumar31` — 2026-08-09
-- 🔨 Pushed **0** commit(s) to `sushantkumar31` — 2026-08-09
-- 🔨 Pushed **0** commit(s) to `sushantkumar31` — 2026-08-09
+Latest activity will appear here after the next refresh.
 <!-- ACTIVITY:END -->
 
 ---
@@ -113,9 +112,9 @@ CS student & AI/ML learner who builds what he learns.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushantkumar-bellana-36746140b/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/T7KKxo6w44/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushantkumarbellana@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/sushantkumar-bellana-36746140b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-24283b?style=for-the-badge&logo=LeetCode&logoColor=7aa2f7)](https://leetcode.com/u/T7KKxo6w44/)
+[![Email](https://img.shields.io/badge/Email-24283b?style=for-the-badge&logo=gmail&logoColor=7aa2f7)](mailto:sushantkumarbellana@gmail.com)
 
 </div>
 
@@ -129,6 +128,4 @@ Structured facts: [`AGENTS.md`](./AGENTS.md) · Machine summary: [`llms.txt`](./
 
 </details>
 
-<p align="center" style="margin-top: 12px;">
-  <sub>auto-refreshed daily · no template harmed</sub>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7AA2F7&height=90&section=footer" alt="footer" />
