@@ -1,11 +1,65 @@
 {
+  "identity": {
+    "name": "Sushant Kumar Bellana",
+    "tagline": "CS student & AI/ML learner who builds what he learns",
+    "role": "B.Tech CSE (AI & ML)",
+    "location": "Hyderabad, India"
+  },
   "typing_lines": [
     "Machine Learning learner",
     "Python \u00b7 NumPy \u00b7 Pandas \u00b7 scikit-learn",
-    "Building in public every day"
+    "Feature engineering \u2192 classical ML \u2192 LLMs",
+    "Building in public every day",
+    "Open to collabs & new ideas"
   ],
-  "focus": [
-    { "topic": "Classical ML", "progress": 80 },
+  "about": [
+    { "emoji": "\ud83c\udf93", "text": "**B.Tech CSE (AIML)**" },
+    { "emoji": "\ud83e\udde0", "text": "Exploring **feature engineering \u2192 classical ML \u2192 LLMs**" },
+    { "emoji": "\ud83d\udcda", "text": "Every concept becomes a notebook; every notebook becomes a repo" },
+    { "emoji": "\ud83e\udde9", "text": "Consistent **DSA practice** in Python" },
+    { "emoji": "\ud83d\udccd", "text": "Based in **Hyderabad, India**" }
+  ],
+  "skills": [
+    { "name": "Python", "color": "3776AB", "logo": "python" },
+    { "name": "NumPy", "color": "013243", "logo": "numpy" },
+    { "name": "Pandas", "color": "150458", "logo": "pandas" },
+    { "name": "scikit-learn", "color": "F7931E", "logo": "scikit-learn" },
+    { "name": "OpenCV", "color": "5C3EE8", "logo": "opencv" },
+    { "name": "Streamlit", "color": "FF4B4B", "logo": "streamlit" },
+    { "name": "Jupyter", "color": "F37626", "logo": "jupyter" },
+    { "name": "Git", "color": "F05032", "logo": "git" },
+    { "name": "VS Code", "color": "007ACC", "logo": "visualstudiocode" }
+  ],
+  "projects": [
+    {
+      "name": "Feature Engineering Impact Analyzer",
+      "emoji": "\ud83d\udd0d",
+      "description": "Streamlit app \u2014 change a feature-engineering choice, watch model performance move",
+      "repo": "feature-engineering-analyzer",
+      "demo": "https://feature-engineering-analyzer-slr4etpc88hhfg6b3ouah.streamlit.app/"
+    },
+    {
+      "name": "myAIML",
+      "emoji": "\ud83d\udcda",
+      "description": "Structured AI/ML learning journey \u2014 linear regression \u2192 transformers, with real implementations",
+      "repo": "myAIML",
+      "demo": null
+    },
+    {
+      "name": "LeetCode Solutions",
+      "emoji": "\ud83d\udcbb",
+      "description": "DSA practice by topic \u2014 arrays, trees, graphs, DP \u2014 in clean Python",
+      "repo": "leetcode-solutions",
+      "demo": null
+    }
+  ],
+  "socials": [
+    { "name": "LinkedIn", "logo": "linkedin", "url": "https://www.linkedin.com/in/sushantkumar-bellana-36746140b/" },
+    { "name": "LeetCode", "logo": "LeetCode", "url": "https://leetcode.com/u/T7KKxo6w44/" },
+    { "name": "Email", "logo": "gmail", "url": "mailto:sushantkumarbellana@gmail.com" }
+  ],
+  "learning": [
+    { "topic": "Classical ML deep-dive", "progress": 80 },
     { "topic": "DSA Interview Prep", "progress": 55 },
     { "topic": "LLM & RAG systems", "progress": 30 },
     { "topic": "Kaggle Competitions", "progress": 15 }

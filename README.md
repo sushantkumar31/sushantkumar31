@@ -16,21 +16,32 @@
 
 ---
 
+## Quick Navigation
+
+<div align="center">
+
+[📖 **About**](#about) · [🎯 **Current Focus**](#current-focus) · [🛠️ **Skills**](#skills) · [🚀 **Featured Work**](#featured-work) · [📊 **Stats**](#github-stats) · [📈 **Activity**](#contribution-activity) · [🕒 **Recent**](#recent-activity) · [🤝 **Connect**](#connect)
+
+</div>
+
+---
+
 ## About
 
-CS student & AI/ML learner who builds what he learns.
-
+<!-- ABOUT:START -->
 - 🎓 **B.Tech CSE (AIML)**
-- 🧠 Exploring feature engineering → classical ML → LLMs
+- 🧠 Exploring **feature engineering → classical ML → LLMs**
 - 📚 Every concept becomes a notebook; every notebook becomes a repo
-- 🧩 Consistent DSA practice in Python
+- 🧩 Consistent **DSA practice** in Python
+- 📍 Based in **Hyderabad, India**
+<!-- ABOUT:END -->
 
 ---
 
 ## Current Focus
 
 <!-- FOCUS:START -->
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░] Classical ML — 80%
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░] Classical ML deep-dive — 80%
 [▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░] DSA Interview Prep — 55%
 [▓▓▓▓▓▓░░░░░░░░░░░░░░] LLM & RAG systems — 30%
 [▓▓▓░░░░░░░░░░░░░░░░░] Kaggle Competitions — 15%
@@ -38,34 +49,38 @@ CS student & AI/ML learner who builds what he learns.
 
 ---
 
-## Languages & Tools
+## Skills
 
+<!-- SKILLS:START -->
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&color=24283b&logoColor=7aa2f7)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&color=24283b&logoColor=7aa2f7)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&color=24283b&logoColor=7aa2f7)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&color=24283b&logoColor=7aa2f7)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&color=24283b&logoColor=7aa2f7)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&color=24283b&logoColor=7aa2f7)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&color=24283b&logoColor=7aa2f7)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&color=24283b&logoColor=7aa2f7)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&color=24283b&logoColor=7aa2f7)
+![Python](https://img.shields.io/badge/Python-24283b?style=flat-square&logo=python&logoColor=7aa2f7&labelColor=24283b&color=3776AB)
+![NumPy](https://img.shields.io/badge/NumPy-24283b?style=flat-square&logo=numpy&logoColor=7aa2f7&labelColor=24283b&color=013243)
+![Pandas](https://img.shields.io/badge/Pandas-24283b?style=flat-square&logo=pandas&logoColor=7aa2f7&labelColor=24283b&color=150458)
+![scikit-learn](https://img.shields.io/badge/scikit-learn-24283b?style=flat-square&logo=scikit-learn&logoColor=7aa2f7&labelColor=24283b&color=F7931E)
+![OpenCV](https://img.shields.io/badge/OpenCV-24283b?style=flat-square&logo=opencv&logoColor=7aa2f7&labelColor=24283b&color=5C3EE8)
+![Streamlit](https://img.shields.io/badge/Streamlit-24283b?style=flat-square&logo=streamlit&logoColor=7aa2f7&labelColor=24283b&color=FF4B4B)
+![Jupyter](https://img.shields.io/badge/Jupyter-24283b?style=flat-square&logo=jupyter&logoColor=7aa2f7&labelColor=24283b&color=F37626)
+![Git](https://img.shields.io/badge/Git-24283b?style=flat-square&logo=git&logoColor=7aa2f7&labelColor=24283b&color=F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-24283b?style=flat-square&logo=visualstudiocode&logoColor=7aa2f7&labelColor=24283b&color=007ACC)
 
 </div>
+<!-- SKILLS:END -->
 
 ---
 
 ## Featured Work
 
+<!-- PROJECTS:START -->
 <div align="center">
 
 | | |
 |:---:|:---:|
-| **🔍 Feature Engineering Impact Analyzer**<br/>Streamlit app — change a feature-engineering choice, watch model performance move<br/><br/>[![Code](https://img.shields.io/badge/Source_Code-24283b?style=flat-square&logo=github&logoColor=7aa2f7)](https://github.com/sushantkumar31/feature-engineering-analyzer) [![Live](https://img.shields.io/badge/Live_Demo-9ece6a?style=flat-square&logo=streamlit&logoColor=1a1b26)](https://feature-engineering-analyzer-slr4etpc88hhfg6b3ouahx.streamlit.app/) | **📚 myAIML**<br/>Structured AI/ML learning journey — linear regression → transformers, with real implementations<br/><br/>[![Code](https://img.shields.io/badge/Source_Code-24283b?style=flat-square&logo=github&logoColor=7aa2f7)](https://github.com/sushantkumar31/myAIML) |
-| **💻 LeetCode Solutions**<br/>DSA practice by topic — arrays, trees, graphs, DP — in clean Python<br/><br/>[![Code](https://img.shields.io/badge/Source_Code-24283b?style=flat-square&logo=github&logoColor=7aa2f7)](https://github.com/sushantkumar31/leetcode-solutions) | **🗂️ All Repositories**<br/>Everything I'm working on, in one place<br/><br/>[![Repos](https://img.shields.io/badge/View_All-24283b?style=flat-square&logo=github&logoColor=7aa2f7)](https://github.com/sushantkumar31?tab=repositories) |
+| **🔍 Feature Engineering Impact Analyzer**<br/>Streamlit app — change a feature-engineering choice, watch model performance move<br/>[![Code](https://img.shields.io/badge/Source_Code-24283b?style=flat-square&logo=github&logoColor=7aa2f7)](https://github.com/sushantkumar31/feature-engineering-analyzer) [![Live](https://img.shields.io/badge/Live_Demo-9ece6a?style=flat-square&logo=streamlit&logoColor=1a1b26)](https://feature-engineering-analyzer-slr4etpc88hhfg6b3ouah.streamlit.app/) | **📚 myAIML**<br/>Structured AI/ML learning journey — linear regression → transformers, with real implementations<br/>[![Code](https://img.shields.io/badge/Source_Code-24283b?style=flat-square&logo=github&logoColor=7aa2f7)](https://github.com/sushantkumar31/myAIML) |
+| **💻 LeetCode Solutions**<br/>DSA practice by topic — arrays, trees, graphs, DP — in clean Python<br/>[![Code](https://img.shields.io/badge/Source_Code-24283b?style=flat-square&logo=github&logoColor=7aa2f7)](https://github.com/sushantkumar31/leetcode-solutions) |
 
 </div>
+<!-- PROJECTS:END -->
 
 ---
 
@@ -79,6 +94,10 @@ CS student & AI/ML learner who builds what he learns.
 <br/>
 
 <img src="https://raw.githubusercontent.com/sushantkumar31/sushantkumar31/main/assets/streak.svg" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sushantkumar31&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=12&margin-h=12" alt="GitHub Trophies" />
 
 </div>
 
@@ -115,13 +134,15 @@ CS student & AI/ML learner who builds what he learns.
 
 ## Connect
 
+<!-- SOCIALS:START -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/sushantkumar-bellana-36746140b/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-24283b?style=for-the-badge&logo=LeetCode&logoColor=7aa2f7)](https://leetcode.com/u/T7KKxo6w44/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-24283b?style=for-the-badge&logo=leetcode&logoColor=7aa2f7)](https://leetcode.com/u/T7KKxo6w44/)
 [![Email](https://img.shields.io/badge/Email-24283b?style=for-the-badge&logo=gmail&logoColor=7aa2f7)](mailto:sushantkumarbellana@gmail.com)
 
 </div>
+<!-- SOCIALS:END -->
 
 ---
 

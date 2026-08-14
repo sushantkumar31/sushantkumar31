@@ -10,7 +10,7 @@
 - LeetCode: https://leetcode.com/u/T7KKxo6w44/
 
 ## Skills (tiered)
-- Working knowledge: Python, NumPy, Pandas, scikit-learn, classical machine learning, Streamlit, Git
+- Working knowledge: Python, NumPy, Pandas, scikit-learn, classical machine learning, Streamlit, OpenCV (learning), Git
 - Learning: classical ML deep-dive (feature engineering), DSA, LLM/RAG systems, Kaggle
 
 ## Projects
