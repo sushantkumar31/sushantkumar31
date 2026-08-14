@@ -230,7 +230,7 @@ def skills_block(config: dict) -> str:
         b = (
             f"![{name}](https://img.shields.io/badge/"
             f"{urllib.parse.quote(name)}-24283b?style=flat-square"
-            f"&logo={logo_slug}&logoColor=7aa2f7&labelColor=24283b&color={color})"
+            f"&logo={logo}&logoColor=7aa2f7&labelColor=24283b&color={color})"
         )
         badges.append(b)
     return '<div align="center">\n\n' + "\n".join(badges) + "\n\n</div>"
